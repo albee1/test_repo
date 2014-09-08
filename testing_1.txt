@@ -1,3 +1,4 @@
-hi this is just a more complicated test. 
+hi this is just a more complicated test that test synchronization. 
 First change
 second change
+Third change here, no second change
