@@ -1,2 +1,3 @@
-hi this is just a test. 
+hi this is just a test of synchronization. 
 First change
+Third change here, no second change
